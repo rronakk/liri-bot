@@ -21,6 +21,9 @@ else{
 }
 // main action happens here. Liri
 function goLiri(command, action){
+    addToLog("\n Command :  " + command);
+    addToLog("\n ********* Powering Up Liri *********** ");
+
     switch (command)
     {
         case "my-tweets": getTweets();
@@ -64,6 +67,10 @@ function getTweets(){
         console.log("Created --->", tweets[i].created_at);
         console.log("Tweeted --->", tweets[i].text);
 
+        addToLog("\n -----------");
+        addToLog("\n Created --->" + tweets[i].created_at);
+        addToLog("\n Tweeted --->" + tweets[i].text);
+
       }
     }
   });
@@ -80,7 +87,14 @@ function getSongInfo(song){
             console.log("Artist(s) -->", response.tracks.items[0].artists[0].name); 
             console.log("Song Name -->", response.tracks.items[0].name);
             console.log("Preview Link -->", response.tracks.items[0].preview_url);
-            console.log("Album Name -->", response.tracks.items[0].album.name);        })
+            console.log("Album Name -->", response.tracks.items[0].album.name);
+      
+            addToLog("\n Artist(s) ---->" + response.tracks.items[0].artists[0].name);
+            addToLog("\n Song Name ---->" + response.tracks.items[0].name);
+            addToLog("\n Preview Link ---->" + response.tracks.items[0].preview_url);
+            addToLog("\n Albumn ---->" + response.tracks.items[0].album.name);
+
+        })
         .catch(function (err) {
             console.log("Didn't find the song you requested, but here is my favourite");
             getSongInfo("The Sign, Ace of base");
@@ -101,6 +115,15 @@ function getMovieInfo(movieName){
             console.log("Langauge released ---> ", JSON.parse(body).Language);
             console.log("Plot of the movie ---> ", JSON.parse(body).Plot);
             console.log("Lead Actors ---> ", JSON.parse(body).Actors);
+
+            addToLog("\n Title of Movie ---> " + JSON.parse(body).Title);
+            addToLog("\n Year Released ---> " + JSON.parse(body).Released);
+            addToLog("\n IMDB Ratings ---> " + JSON.parse(body).imdbRating);
+            addToLog("\n Rotten Tomatoes Ratings --->" + JSON.parse(body).Ratings[1].Value);
+            addToLog("\n Country of production --->" + JSON.parse(body).Country);
+            addToLog("\n Langauge released ---> " + JSON.parse(body).Language);
+            addToLog("\n Plot of the movie ---> " + JSON.parse(body).Plot);
+            addToLog("\n Lead Actors ---> " + JSON.parse(body).Actors);
         }
         else{
             console.log("Sorry, I dont know that movie");
@@ -120,3 +143,10 @@ function doAsSaid(){
     })
 }
 
+// to write into txt file
+function addToLog(message){
+    fs.appendFile("log.txt", message, function(err) {
+        if (err) {
+          return console.log(err);
+        }});
+}
