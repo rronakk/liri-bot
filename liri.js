@@ -3,10 +3,6 @@ var Twitter = require('twitter');
 var Spotify = require('node-spotify-api');
 var request = require("request");
 var fs = require("fs");
-
-
-
-
 var keys = require("./keys.js");
 
 
@@ -19,7 +15,8 @@ if (process.argv.length > 2){
 else{
     console.log("Please enter a command for liri to execute");
 }
-// main action happens here. Liri
+
+// main action happens here.
 function goLiri(command, action){
     addToLog("\n Command :  " + command);
     addToLog("\n ********* Powering Up Liri *********** ");
