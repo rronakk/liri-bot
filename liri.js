@@ -15,7 +15,8 @@ if (process.argv.length > 2){
 else{
     console.log("Please enter a command for liri to execute");
 }
-// main action happens here. Liri
+
+// main action happens here.
 function goLiri(command, action){
     addToLog("\n Command :  " + command);
     addToLog("\n ********* Powering Up Liri *********** ");
@@ -130,5 +131,9 @@ function addToLog(message){
         if (err) {
           return console.log(err);
         }});
+<<<<<<< HEAD
     console.log(message);
 }
+=======
+}
+>>>>>>> 049d132dd24d3c768659b82c5c1f27e272795573
