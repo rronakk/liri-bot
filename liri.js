@@ -3,10 +3,6 @@ var Twitter = require('twitter');
 var Spotify = require('node-spotify-api');
 var request = require("request");
 var fs = require("fs");
-
-
-
-
 var keys = require("./keys.js");
 
 
@@ -63,9 +59,6 @@ function getTweets(){
     client.get('statuses/user_timeline', twitterParams, function(error, tweets) {
     if (!error) {
       for (var i = 0; i< tweets.length; i++){
-        console.log("-----------");
-        console.log("Created --->", tweets[i].created_at);
-        console.log("Tweeted --->", tweets[i].text);
 
         addToLog("\n -----------");
         addToLog("\n Created --->" + tweets[i].created_at);
@@ -84,10 +77,6 @@ function getSongInfo(song){
             query: song,
         })
         .then(function (response) {
-            console.log("Artist(s) -->", response.tracks.items[0].artists[0].name); 
-            console.log("Song Name -->", response.tracks.items[0].name);
-            console.log("Preview Link -->", response.tracks.items[0].preview_url);
-            console.log("Album Name -->", response.tracks.items[0].album.name);
       
             addToLog("\n Artist(s) ---->" + response.tracks.items[0].artists[0].name);
             addToLog("\n Song Name ---->" + response.tracks.items[0].name);
@@ -107,14 +96,6 @@ function getMovieInfo(movieName){
     var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
     request(queryUrl, function(error, response, body){
         if (!error && response.statusCode === 200){
-            console.log("Title of Movie ---> ", JSON.parse(body).Title);
-            console.log("Year Released ---> ", JSON.parse(body).Released);
-            console.log("IMDB Ratings ---> ", JSON.parse(body).imdbRating);
-            console.log("Rotten Tomatoes Ratings ---> ", JSON.parse(body).Ratings[1].Value);
-            console.log("Country of production ---> ", JSON.parse(body).Country);
-            console.log("Langauge released ---> ", JSON.parse(body).Language);
-            console.log("Plot of the movie ---> ", JSON.parse(body).Plot);
-            console.log("Lead Actors ---> ", JSON.parse(body).Actors);
 
             addToLog("\n Title of Movie ---> " + JSON.parse(body).Title);
             addToLog("\n Year Released ---> " + JSON.parse(body).Released);
@@ -149,4 +130,5 @@ function addToLog(message){
         if (err) {
           return console.log(err);
         }});
+    console.log(message);
 }

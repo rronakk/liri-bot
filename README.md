@@ -10,9 +10,18 @@ He is half baked, and can only understand 4 commands for now.
 
     * `movie-this`
 
-    * `do-what-it-says`
+let's do some setup to onboard Liri:
 
-Let me try to explain, what it does.
+### Setup
+
+- cd into the project directory.
+- Install the node packages required to fuel Liri:
+
+```npm install```
+
+### Executing Liri
+
+Let me explaing what does Liri knows till now , and how to make him do the work.
 
 * ```my-tweets```
 
@@ -47,3 +56,4 @@ Let me try to explain, what it does.
 
     `node liri.js do-what-it-says`
     - Whatever text exist in random.txt , liri will try to execute it.
+

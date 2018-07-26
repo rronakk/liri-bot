@@ -1,0 +1,41 @@
+
+ Command :  movie-this
+ ********* Powering Up Liri *********** 
+ Title of Movie ---> Titanic
+ Year Released ---> 19 Dec 1997
+ IMDB Ratings ---> 7.8
+ Rotten Tomatoes Ratings --->88%
+ Country of production --->USA
+ Langauge released ---> English, Swedish
+ Plot of the movie ---> A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+ Lead Actors ---> Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+ Command :  movie-this
+ ********* Powering Up Liri *********** 
+ Title of Movie ---> Titanic
+ Year Released ---> 19 Dec 1997
+ IMDB Ratings ---> 7.8
+ Rotten Tomatoes Ratings --->88%
+ Country of production --->USA
+ Langauge released ---> English, Swedish
+ Plot of the movie ---> A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+ Lead Actors ---> Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+ Command :  my-tweets
+ ********* Powering Up Liri *********** 
+ -----------
+ Created --->Thu Jul 26 22:13:42 +0000 2018
+ Tweeted --->RT @TheOffice___: Oh how real https://t.co/JxlJNPeFmy
+ -----------
+ Created --->Thu Jul 26 22:13:15 +0000 2018
+ Tweeted --->RT @TheOffice___: How can you not love Jim and Pam https://t.co/85dGzhKrT9
+ -----------
+ Created --->Thu Jul 26 22:12:58 +0000 2018
+ Tweeted --->RT @TheOffice___: So what?? https://t.co/GQ42sayID6
+ -----------
+ Created --->Thu Jul 26 22:12:53 +0000 2018
+ Tweeted --->RT @TheOffice___: best. promposal. ever. https://t.co/ErsyAEU7eH
+ -----------
+ Created --->Mon Jul 23 03:53:45 +0000 2018
+ Tweeted --->Today, I am Michael scott , and everyone else is toby flenderson
+ -----------
+ Created --->Mon Jul 23 03:37:05 +0000 2018
+ Tweeted --->Who is smarter ? dwight or Jim ? ....False ; Its Ryan
