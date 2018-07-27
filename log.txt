@@ -39,3 +39,19 @@
  -----------
  Created --->Mon Jul 23 03:37:05 +0000 2018
  Tweeted --->Who is smarter ? dwight or Jim ? ....False ; Its Ryan
+ Command :  movie-this
+ ********* Powering Up Liri *********** 
+ Title of Movie ---> Titanic
+ Year Released ---> 19 Dec 1997
+ IMDB Ratings ---> 7.8
+ Rotten Tomatoes Ratings --->88%
+ Country of production --->USA
+ Langauge released ---> English, Swedish
+ Plot of the movie ---> A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+ Lead Actors ---> Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+ Command :  spotify-this-song
+ ********* Powering Up Liri *********** 
+ Artist(s) ---->Backstreet Boys
+ Song Name ---->I Want It That Way
+ Preview Link ---->https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c36ea4b8c57e438898c35cdf81f7db72
+ Albumn ---->The Hits--Chapter One
