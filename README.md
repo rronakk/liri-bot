@@ -12,6 +12,9 @@ He is half baked, and can only understand 4 commands for now.
 
 let's do some setup to onboard Liri:
 
+Demo : 
+![](demo.gif)
+
 ### Setup
 
 - cd into the project directory.
