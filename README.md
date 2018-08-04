@@ -10,10 +10,13 @@ He is half baked, and can only understand 4 commands for now.
 
     * `movie-this`
 
+
+### SneakPeak 
+ 
+![](demo.gif)
+
 let's do some setup to onboard Liri:
 
-Demo : 
-![](demo.gif)
 
 ### Setup
 
