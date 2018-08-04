@@ -55,3 +55,185 @@
  Song Name ---->I Want It That Way
  Preview Link ---->https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c36ea4b8c57e438898c35cdf81f7db72
  Albumn ---->The Hits--Chapter One
+ Command :  my-tweets
+ ********* Powering Up Liri *********** 
+ -----------
+ Created --->Thu Jul 26 22:13:42 +0000 2018
+ Tweeted --->RT @TheOffice___: Oh how real https://t.co/JxlJNPeFmy
+ -----------
+ Created --->Thu Jul 26 22:13:15 +0000 2018
+ Tweeted --->RT @TheOffice___: How can you not love Jim and Pam https://t.co/85dGzhKrT9
+ -----------
+ Created --->Thu Jul 26 22:12:58 +0000 2018
+ Tweeted --->RT @TheOffice___: So what?? https://t.co/GQ42sayID6
+ -----------
+ Created --->Thu Jul 26 22:12:53 +0000 2018
+ Tweeted --->RT @TheOffice___: best. promposal. ever. https://t.co/ErsyAEU7eH
+ -----------
+ Created --->Mon Jul 23 03:53:45 +0000 2018
+ Tweeted --->Today, I am Michael scott , and everyone else is toby flenderson
+ -----------
+ Created --->Mon Jul 23 03:37:05 +0000 2018
+ Tweeted --->Who is smarter ? dwight or Jim ? ....False ; Its Ryan
+ Command :  spotify-this-song
+ ********* Powering Up Liri *********** 
+ Artist(s) ---->BTS
+ Song Name ---->FAKE LOVE
+ Preview Link ---->https://p.scdn.co/mp3-preview/bc24526c6a5e4d2a63bdbf364705a6012ff2d649?cid=c36ea4b8c57e438898c35cdf81f7db72
+ Albumn ---->Love Yourself 轉 'Tear'
+ Command :  spotify-this-song
+ ********* Powering Up Liri *********** 
+ Artist(s) ---->Queen
+ Song Name ---->We Will Rock You - Remastered 2011
+ Preview Link ---->null
+ Albumn ---->News Of The World (Deluxe Remastered Version)
+ Command :  spotify-this-song
+ ********* Powering Up Liri *********** 
+ Artist(s) ---->Queen
+ Song Name ---->We Will Rock You - Remastered 2011
+ Preview Link ---->null
+ Albumn ---->News Of The World (Deluxe Remastered Version)
+ Command :  spotify-this-song
+ ********* Powering Up Liri *********** 
+ Artist(s) ---->Bryan Adams
+ Song Name ---->Summer Of '69
+ Preview Link ---->null
+ Albumn ---->Reckless (30th Anniversary / Deluxe Edition)
+ Command :  spotify-this-song
+ ********* Powering Up Liri *********** 
+ Artist(s) ---->YG
+ Song Name ---->CANT GET IN KANADA
+ Preview Link ---->null
+ Albumn ---->STAY DANGEROUS
+ Command :  spotify-this-song
+ ********* Powering Up Liri *********** 
+ Artist(s) ---->Justin Timberlake
+ Song Name ---->CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS")
+ Preview Link ---->https://p.scdn.co/mp3-preview/8a0ad558d8c75abc3b5e320bc52f264f654eccbd?cid=c36ea4b8c57e438898c35cdf81f7db72
+ Albumn ---->TROLLS (Original Motion Picture Soundtrack)
+ Command :  spotify-this-song
+ ********* Powering Up Liri *********** 
+ Artist(s) ---->Justin Timberlake
+ Song Name ---->CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS")
+ Preview Link ---->https://p.scdn.co/mp3-preview/8a0ad558d8c75abc3b5e320bc52f264f654eccbd?cid=c36ea4b8c57e438898c35cdf81f7db72
+ Albumn ---->TROLLS (Original Motion Picture Soundtrack)
+ Command :  movie-this
+ ********* Powering Up Liri *********** 
+ Command :  movie-this
+ ********* Powering Up Liri *********** 
+ Title of Movie ---> Titanic
+ Year Released ---> 19 Dec 1997
+ IMDB Ratings ---> 7.8
+ Rotten Tomatoes Ratings --->88%
+ Country of production --->USA
+ Langauge released ---> English, Swedish
+ Plot of the movie ---> A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+ Lead Actors ---> Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+ Command :  movie-this
+ ********* Powering Up Liri *********** 
+ Command :  movie-this
+ ********* Powering Up Liri *********** 
+ Title of Movie ---> Titanic
+ Year Released ---> 19 Dec 1997
+ IMDB Ratings ---> 7.8
+ Rotten Tomatoes Ratings --->88%
+ Country of production --->USA
+ Langauge released ---> English, Swedish
+ Plot of the movie ---> A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+ Lead Actors ---> Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+ Command :  do-what-it-says
+ ********* Powering Up Liri *********** 
+ Command :  spotify-this-song
+ ********* Powering Up Liri *********** 
+ Artist(s) ---->Backstreet Boys
+ Song Name ---->I Want It That Way
+ Preview Link ---->https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c36ea4b8c57e438898c35cdf81f7db72
+ Albumn ---->The Hits--Chapter One
+ Command :  my-tweets
+ ********* Powering Up Liri *********** 
+ -----------
+ Created --->Thu Jul 26 22:13:42 +0000 2018
+ Tweeted --->RT @TheOffice___: Oh how real https://t.co/JxlJNPeFmy
+ -----------
+ Created --->Thu Jul 26 22:13:15 +0000 2018
+ Tweeted --->RT @TheOffice___: How can you not love Jim and Pam https://t.co/85dGzhKrT9
+ -----------
+ Created --->Thu Jul 26 22:12:58 +0000 2018
+ Tweeted --->RT @TheOffice___: So what?? https://t.co/GQ42sayID6
+ -----------
+ Created --->Thu Jul 26 22:12:53 +0000 2018
+ Tweeted --->RT @TheOffice___: best. promposal. ever. https://t.co/ErsyAEU7eH
+ -----------
+ Created --->Mon Jul 23 03:53:45 +0000 2018
+ -----------
+ Tweeted --->Today, I am Michael scott , and everyone else is toby flenderson
+ Created --->Mon Jul 23 03:37:05 +0000 2018
+ Tweeted --->Who is smarter ? dwight or Jim ? ....False ; Its Ryan
+ Command :  spotify-this-song
+ ********* Powering Up Liri *********** 
+ Artist(s) ---->Justin Timberlake
+ Song Name ---->CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS")
+ Preview Link ---->https://p.scdn.co/mp3-preview/8a0ad558d8c75abc3b5e320bc52f264f654eccbd?cid=c36ea4b8c57e438898c35cdf81f7db72
+ Albumn ---->TROLLS (Original Motion Picture Soundtrack)
+ Command :  movie-this
+ ********* Powering Up Liri *********** 
+ Title of Movie ---> Titanic
+ Year Released ---> 19 Dec 1997
+ IMDB Ratings ---> 7.8
+ Rotten Tomatoes Ratings --->88%
+ Country of production --->USA
+ Langauge released ---> English, Swedish
+ Plot of the movie ---> A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+ Lead Actors ---> Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+ Command :  do-what-it-says
+ ********* Powering Up Liri *********** 
+ Command :  spotify-this-song
+ ********* Powering Up Liri *********** 
+ Artist(s) ---->Backstreet Boys
+ Song Name ---->I Want It That Way
+ Preview Link ---->https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c36ea4b8c57e438898c35cdf81f7db72
+ Albumn ---->The Hits--Chapter One
+ Command :  my-tweets
+ ********* Powering Up Liri *********** 
+ -----------
+ Created --->Thu Jul 26 22:13:42 +0000 2018
+ Tweeted --->RT @TheOffice___: Oh how real https://t.co/JxlJNPeFmy
+ -----------
+ Created --->Thu Jul 26 22:13:15 +0000 2018
+ Tweeted --->RT @TheOffice___: How can you not love Jim and Pam https://t.co/85dGzhKrT9
+ -----------
+ Created --->Thu Jul 26 22:12:58 +0000 2018
+ Tweeted --->RT @TheOffice___: So what?? https://t.co/GQ42sayID6
+ -----------
+ Created --->Thu Jul 26 22:12:53 +0000 2018
+ Tweeted --->RT @TheOffice___: best. promposal. ever. https://t.co/ErsyAEU7eH
+ -----------
+ Created --->Mon Jul 23 03:53:45 +0000 2018
+ Tweeted --->Today, I am Michael scott , and everyone else is toby flenderson
+ -----------
+ Created --->Mon Jul 23 03:37:05 +0000 2018
+ Tweeted --->Who is smarter ? dwight or Jim ? ....False ; Its Ryan
+ Command :  spotify-this-song
+ ********* Powering Up Liri *********** 
+ Artist(s) ---->Justin Timberlake
+ Song Name ---->CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's "TROLLS")
+ Preview Link ---->https://p.scdn.co/mp3-preview/8a0ad558d8c75abc3b5e320bc52f264f654eccbd?cid=c36ea4b8c57e438898c35cdf81f7db72
+ Albumn ---->TROLLS (Original Motion Picture Soundtrack)
+ Command :  movie-this
+ ********* Powering Up Liri *********** 
+ Title of Movie ---> Titanic
+ Year Released ---> 19 Dec 1997
+ IMDB Ratings ---> 7.8
+ Rotten Tomatoes Ratings --->88%
+ Country of production --->USA
+ Langauge released ---> English, Swedish
+ Plot of the movie ---> A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+ Lead Actors ---> Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+ Command :  do-what-it-says
+ ********* Powering Up Liri *********** 
+ Command :  spotify-this-song
+ ********* Powering Up Liri *********** 
+ Artist(s) ---->Backstreet Boys
+ Song Name ---->I Want It That Way
+ Preview Link ---->https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=c36ea4b8c57e438898c35cdf81f7db72
+ Albumn ---->The Hits--Chapter One
